@@ -1,0 +1,1882 @@
+[
+    {
+        "bid": "1", 
+        "btitle": "BM_Home", 
+        "desc": "版主之家"
+    }, 
+    {
+        "bid": "3", 
+        "btitle": "Notice", 
+        "desc": "警示牌"
+    }, 
+    {
+        "bid": "5", 
+        "btitle": "New_Board", 
+        "desc": "新版申请"
+    }, 
+    {
+        "bid": "6", 
+        "btitle": "SysOp", 
+        "desc": "站长工作室"
+    }, 
+    {
+        "bid": "7", 
+        "btitle": "Announce", 
+        "desc": "系统公告"
+    }, 
+    {
+        "bid": "8", 
+        "btitle": "FDU_C.D.E.", 
+        "desc": "网络教育学院 "
+    }, 
+    {
+        "bid": "9", 
+        "btitle": "Test", 
+        "desc": "请在此测试"
+    }, 
+    {
+        "bid": "10", 
+        "btitle": "Commerce", 
+        "desc": "商品与消费/购物指南"
+    }, 
+    {
+        "bid": "11", 
+        "btitle": "PIC", 
+        "desc": "贴图乐园"
+    }, 
+    {
+        "bid": "12", 
+        "btitle": "M_West_PM", 
+        "desc": "西苑生活园区"
+    }, 
+    {
+        "bid": "13", 
+        "btitle": "M_Jiangwan", 
+        "desc": "江湾校区"
+    }, 
+    {
+        "bid": "15", 
+        "btitle": "FDU_Management", 
+        "desc": "管理学院"
+    }, 
+    {
+        "bid": "16", 
+        "btitle": "FDU_Economics", 
+        "desc": "经济学院"
+    }, 
+    {
+        "bid": "17", 
+        "btitle": "FDU_Law", 
+        "desc": "法学院 "
+    }, 
+    {
+        "bid": "18", 
+        "btitle": "FDU_C.S.", 
+        "desc": "计算机科学技术学院"
+    }, 
+    {
+        "bid": "19", 
+        "btitle": "FDU_E.E.", 
+        "desc": "电子工程系"
+    }, 
+    {
+        "bid": "20", 
+        "btitle": "M_Network", 
+        "desc": "校园网络 "
+    }, 
+    {
+        "bid": "21", 
+        "btitle": "FDU_Illumination", 
+        "desc": "光源与照明工程系 "
+    }, 
+    {
+        "bid": "22", 
+        "btitle": "FDU_Base", 
+        "desc": "基地班 "
+    }, 
+    {
+        "bid": "23", 
+        "btitle": "FDU_Journalism", 
+        "desc": "新闻学院"
+    }, 
+    {
+        "bid": "24", 
+        "btitle": "FDU_Mechanics", 
+        "desc": "力学与工程科学系"
+    }, 
+    {
+        "bid": "25", 
+        "btitle": "FDU_Chinese", 
+        "desc": "中文系"
+    }, 
+    {
+        "bid": "26", 
+        "btitle": "FDU_Philosophy", 
+        "desc": "哲学学院"
+    }, 
+    {
+        "bid": "27", 
+        "btitle": "FDU_F.L.", 
+        "desc": "外文学院"
+    }, 
+    {
+        "bid": "28", 
+        "btitle": "FDU_S.S.D.P.P.", 
+        "desc": "社会发展与公共政策学院"
+    }, 
+    {
+        "bid": "29", 
+        "btitle": "Campus_Digest", 
+        "desc": "燕园文荟"
+    }, 
+    {
+        "bid": "31", 
+        "btitle": "FDU_Chemistry", 
+        "desc": "化学系"
+    }, 
+    {
+        "bid": "32", 
+        "btitle": "FDU_M.S.", 
+        "desc": "材料科学系"
+    }, 
+    {
+        "bid": "33", 
+        "btitle": "FDU_S.I.R.P.A.", 
+        "desc": "国际关系与公共事务学院"
+    }, 
+    {
+        "bid": "34", 
+        "btitle": "FDU_Life", 
+        "desc": "生命科学学院 "
+    }, 
+    {
+        "bid": "35", 
+        "btitle": "FDU_Mathematics", 
+        "desc": "数学科学学院"
+    }, 
+    {
+        "bid": "36", 
+        "btitle": "FDU_E.S.E.", 
+        "desc": "环境科学与工程系"
+    }, 
+    {
+        "bid": "37", 
+        "btitle": "FDU_Physics", 
+        "desc": "物理系"
+    }, 
+    {
+        "bid": "38", 
+        "btitle": "FDU_C.H.T.", 
+        "desc": "文博历史旅游管理"
+    }, 
+    {
+        "bid": "39", 
+        "btitle": "FDU_Macromol.S.", 
+        "desc": "高分子科学系 "
+    }, 
+    {
+        "bid": "41", 
+        "btitle": "Psychology", 
+        "desc": "心理学"
+    }, 
+    {
+        "bid": "42", 
+        "btitle": "BBS_History", 
+        "desc": "站史馆"
+    }, 
+    {
+        "bid": "43", 
+        "btitle": "Tea", 
+        "desc": "茗思苦享   "
+    }, 
+    {
+        "bid": "44", 
+        "btitle": "AI", 
+        "desc": "人工智能"
+    }, 
+    {
+        "bid": "45", 
+        "btitle": "MobilePhone", 
+        "desc": "手机"
+    }, 
+    {
+        "bid": "46", 
+        "btitle": "Notepad", 
+        "desc": "酸甜苦辣"
+    }, 
+    {
+        "bid": "47", 
+        "btitle": "Embedded", 
+        "desc": "嵌入式系统"
+    }, 
+    {
+        "bid": "50", 
+        "btitle": "EnglishTest", 
+        "desc": "英语考试"
+    }, 
+    {
+        "bid": "51", 
+        "btitle": "Database", 
+        "desc": "数据库"
+    }, 
+    {
+        "bid": "52", 
+        "btitle": "Translation", 
+        "desc": "翻译"
+    }, 
+    {
+        "bid": "54", 
+        "btitle": "Hardware", 
+        "desc": "硬件诊断"
+    }, 
+    {
+        "bid": "55", 
+        "btitle": "Multimedia", 
+        "desc": "多媒体"
+    }, 
+    {
+        "bid": "56", 
+        "btitle": "Software", 
+        "desc": "软件与应用"
+    }, 
+    {
+        "bid": "57", 
+        "btitle": "Virus", 
+        "desc": "计算机病毒"
+    }, 
+    {
+        "bid": "58", 
+        "btitle": "MS_Windows", 
+        "desc": "微软视窗系列"
+    }, 
+    {
+        "bid": "59", 
+        "btitle": "Network", 
+        "desc": "网络技术"
+    }, 
+    {
+        "bid": "60", 
+        "btitle": "Java", 
+        "desc": "Java语言"
+    }, 
+    {
+        "bid": "61", 
+        "btitle": "C", 
+        "desc": "C/C++"
+    }, 
+    {
+        "bid": "62", 
+        "btitle": "WebDev", 
+        "desc": "网站开发"
+    }, 
+    {
+        "bid": "63", 
+        "btitle": "Programming", 
+        "desc": "编程"
+    }, 
+    {
+        "bid": "64", 
+        "btitle": "HackerVsSecurity", 
+        "desc": "黑客与系统安全"
+    }, 
+    {
+        "bid": "65", 
+        "btitle": "ANSI", 
+        "desc": "ASCII码的艺术"
+    }, 
+    {
+        "bid": "66", 
+        "btitle": "Unix", 
+        "desc": "unix/linux"
+    }, 
+    {
+        "bid": "67", 
+        "btitle": "Joke", 
+        "desc": "嘻嘻哈哈 "
+    }, 
+    {
+        "bid": "68", 
+        "btitle": "Video_Game", 
+        "desc": "电子游戏"
+    }, 
+    {
+        "bid": "69", 
+        "btitle": "PC_Game", 
+        "desc": "电脑游戏"
+    }, 
+    {
+        "bid": "70", 
+        "btitle": "Magpie_Bridge", 
+        "desc": "鹊桥"
+    }, 
+    {
+        "bid": "71", 
+        "btitle": "Cartoon", 
+        "desc": "卡通"
+    }, 
+    {
+        "bid": "72", 
+        "btitle": "Collection", 
+        "desc": "收藏 "
+    }, 
+    {
+        "bid": "73", 
+        "btitle": "Food", 
+        "desc": "美食 "
+    }, 
+    {
+        "bid": "74", 
+        "btitle": "Ghost_Story", 
+        "desc": "战战兢兢 "
+    }, 
+    {
+        "bid": "75", 
+        "btitle": "Movie", 
+        "desc": "电影"
+    }, 
+    {
+        "bid": "76", 
+        "btitle": "Online_Game", 
+        "desc": "网络游戏"
+    }, 
+    {
+        "bid": "78", 
+        "btitle": "Photography", 
+        "desc": "摄影 "
+    }, 
+    {
+        "bid": "79", 
+        "btitle": "Riddle", 
+        "desc": "灯谜"
+    }, 
+    {
+        "bid": "80", 
+        "btitle": "Travel", 
+        "desc": "旅游 "
+    }, 
+    {
+        "bid": "81", 
+        "btitle": "Rock", 
+        "desc": "摇滚风情"
+    }, 
+    {
+        "bid": "82", 
+        "btitle": "Pop", 
+        "desc": "流行音乐"
+    }, 
+    {
+        "bid": "83", 
+        "btitle": "Classic", 
+        "desc": "古典音乐"
+    }, 
+    {
+        "bid": "84", 
+        "btitle": "Chinese_Music", 
+        "desc": "民乐"
+    }, 
+    {
+        "bid": "85", 
+        "btitle": "Guitar", 
+        "desc": "吉它"
+    }, 
+    {
+        "bid": "86", 
+        "btitle": "Book", 
+        "desc": "书山寻径"
+    }, 
+    {
+        "bid": "87", 
+        "btitle": "Classical_Poem", 
+        "desc": "古典诗词"
+    }, 
+    {
+        "bid": "88", 
+        "btitle": "Detective", 
+        "desc": "侦探推理"
+    }, 
+    {
+        "bid": "89", 
+        "btitle": "XiquQuyi", 
+        "desc": "戏曲曲艺"
+    }, 
+    {
+        "bid": "90", 
+        "btitle": "Emprise", 
+        "desc": "武侠小说"
+    }, 
+    {
+        "bid": "91", 
+        "btitle": "FairyTale", 
+        "desc": "童心天地"
+    }, 
+    {
+        "bid": "92", 
+        "btitle": "Literature", 
+        "desc": "文学艺术"
+    }, 
+    {
+        "bid": "93", 
+        "btitle": "Fine_Arts", 
+        "desc": "美术"
+    }, 
+    {
+        "bid": "94", 
+        "btitle": "Poetry", 
+        "desc": "诗歌"
+    }, 
+    {
+        "bid": "95", 
+        "btitle": "Fantasy", 
+        "desc": "奇幻世界"
+    }, 
+    {
+        "bid": "96", 
+        "btitle": "Whim", 
+        "desc": "科学幻想"
+    }, 
+    {
+        "bid": "97", 
+        "btitle": "FDU_SHMC", 
+        "desc": "上海医学院"
+    }, 
+    {
+        "bid": "98", 
+        "btitle": "Basketball", 
+        "desc": "篮球 "
+    }, 
+    {
+        "bid": "99", 
+        "btitle": "Card", 
+        "desc": "牌类 "
+    }, 
+    {
+        "bid": "185", 
+        "btitle": "Chess", 
+        "desc": "棋道"
+    }, 
+    {
+        "bid": "101", 
+        "btitle": "Football_CN", 
+        "desc": "中国足球 "
+    }, 
+    {
+        "bid": "102", 
+        "btitle": "Health", 
+        "desc": "医药保健"
+    }, 
+    {
+        "bid": "103", 
+        "btitle": "Football_WD", 
+        "desc": "国际足球 "
+    }, 
+    {
+        "bid": "104", 
+        "btitle": "KeepFit", 
+        "desc": "健美塑身"
+    }, 
+    {
+        "bid": "105", 
+        "btitle": "Sports", 
+        "desc": "竞技体育 "
+    }, 
+    {
+        "bid": "106", 
+        "btitle": "Table_Tennis", 
+        "desc": "乒乓球"
+    }, 
+    {
+        "bid": "107", 
+        "btitle": "Volleyball", 
+        "desc": "排球 "
+    }, 
+    {
+        "bid": "108", 
+        "btitle": "WuShu", 
+        "desc": "武术 "
+    }, 
+    {
+        "bid": "109", 
+        "btitle": "Boy", 
+        "desc": "男生天地 "
+    }, 
+    {
+        "bid": "110", 
+        "btitle": "Employees", 
+        "desc": "上班一族 "
+    }, 
+    {
+        "bid": "111", 
+        "btitle": "Family", 
+        "desc": "我爱我家"
+    }, 
+    {
+        "bid": "112", 
+        "btitle": "Feelings", 
+        "desc": "心情故事"
+    }, 
+    {
+        "bid": "113", 
+        "btitle": "Friend", 
+        "desc": "朋友啊朋友"
+    }, 
+    {
+        "bid": "114", 
+        "btitle": "Girl", 
+        "desc": "女孩心声"
+    }, 
+    {
+        "bid": "115", 
+        "btitle": "Graduate", 
+        "desc": "研究生生活"
+    }, 
+    {
+        "bid": "116", 
+        "btitle": "Card_World", 
+        "desc": "卡牌世界"
+    }, 
+    {
+        "bid": "117", 
+        "btitle": "Love", 
+        "desc": "情爱悠悠"
+    }, 
+    {
+        "bid": "118", 
+        "btitle": "Memory", 
+        "desc": "似水流年"
+    }, 
+    {
+        "bid": "120", 
+        "btitle": "Single", 
+        "desc": "网络光协"
+    }, 
+    {
+        "bid": "121", 
+        "btitle": "Teacher", 
+        "desc": "教师沙龙"
+    }, 
+    {
+        "bid": "122", 
+        "btitle": "Undergraduate", 
+        "desc": "本科生之家"
+    }, 
+    {
+        "bid": "123", 
+        "btitle": "Creation", 
+        "desc": "创新与创业 "
+    }, 
+    {
+        "bid": "124", 
+        "btitle": "GoAbroad", 
+        "desc": "出国专题 "
+    }, 
+    {
+        "bid": "126", 
+        "btitle": "Loving_Heart", 
+        "desc": "爱心之家"
+    }, 
+    {
+        "bid": "127", 
+        "btitle": "Practice", 
+        "desc": "志愿者与实践  "
+    }, 
+    {
+        "bid": "128", 
+        "btitle": "Cross_Music", 
+        "desc": "跨界音乐"
+    }, 
+    {
+        "bid": "129", 
+        "btitle": "Stock", 
+        "desc": "证券投资/财经新闻"
+    }, 
+    {
+        "bid": "131", 
+        "btitle": "KaoYan", 
+        "desc": "考研"
+    }, 
+    {
+        "bid": "133", 
+        "btitle": "M_Management", 
+        "desc": "校园管理  "
+    }, 
+    {
+        "bid": "134", 
+        "btitle": "Broadcast", 
+        "desc": "电台/网络传媒"
+    }, 
+    {
+        "bid": "136", 
+        "btitle": "History", 
+        "desc": "历史研究"
+    }, 
+    {
+        "bid": "138", 
+        "btitle": "Law", 
+        "desc": "法律"
+    }, 
+    {
+        "bid": "140", 
+        "btitle": "Economics", 
+        "desc": "经济学 "
+    }, 
+    {
+        "bid": "141", 
+        "btitle": "Foreign_Language", 
+        "desc": "外语广场"
+    }, 
+    {
+        "bid": "142", 
+        "btitle": "EE", 
+        "desc": "电子工程"
+    }, 
+    {
+        "bid": "143", 
+        "btitle": "Linguistics", 
+        "desc": "语言文字"
+    }, 
+    {
+        "bid": "144", 
+        "btitle": "Mathematics", 
+        "desc": "数学"
+    }, 
+    {
+        "bid": "145", 
+        "btitle": "Nature", 
+        "desc": "人与自然/环境保护 "
+    }, 
+    {
+        "bid": "146", 
+        "btitle": "Philosophy", 
+        "desc": "哲学"
+    }, 
+    {
+        "bid": "147", 
+        "btitle": "Physics", 
+        "desc": "物理 "
+    }, 
+    {
+        "bid": "148", 
+        "btitle": "Military", 
+        "desc": "军事天地"
+    }, 
+    {
+        "bid": "150", 
+        "btitle": "FDU_C.S.E.", 
+        "desc": "通信科学与工程系"
+    }, 
+    {
+        "bid": "152", 
+        "btitle": "Life_Science", 
+        "desc": "生命科学"
+    }, 
+    {
+        "bid": "153", 
+        "btitle": "Christianity", 
+        "desc": "基督教研究"
+    }, 
+    {
+        "bid": "154", 
+        "btitle": "Music_Game", 
+        "desc": "音乐游戏"
+    }, 
+    {
+        "bid": "155", 
+        "btitle": "ZoneA", 
+        "desc": "音乐影视区版面建设"
+    }, 
+    {
+        "bid": "156", 
+        "btitle": "NR_Movie", 
+        "desc": "电影网络资源"
+    }, 
+    {
+        "bid": "157", 
+        "btitle": "NR_Cartoon", 
+        "desc": "卡通网络资源"
+    }, 
+    {
+        "bid": "158", 
+        "btitle": "NR_TV", 
+        "desc": "电视网络资源"
+    }, 
+    {
+        "bid": "159", 
+        "btitle": "NR_Music", 
+        "desc": "音乐网络资源"
+    }, 
+    {
+        "bid": "160", 
+        "btitle": "M_League", 
+        "desc": "复旦大学团委"
+    }, 
+    {
+        "bid": "161", 
+        "btitle": "Dance", 
+        "desc": "舞蹈"
+    }, 
+    {
+        "bid": "162", 
+        "btitle": "Basic", 
+        "desc": "Basic/Visual Basic"
+    }, 
+    {
+        "bid": "163", 
+        "btitle": "Romance", 
+        "desc": "言情小说"
+    }, 
+    {
+        "bid": "164", 
+        "btitle": "Folklore", 
+        "desc": "民俗文化"
+    }, 
+    {
+        "bid": "165", 
+        "btitle": "Skate", 
+        "desc": "轮滑风采"
+    }, 
+    {
+        "bid": "166", 
+        "btitle": "Exam", 
+        "desc": "考试与培训信息"
+    }, 
+    {
+        "bid": "167", 
+        "btitle": "FDU_O.S.E.", 
+        "desc": "光科学与工程系"
+    }, 
+    {
+        "bid": "168", 
+        "btitle": "Astronomy", 
+        "desc": "天文学"
+    }, 
+    {
+        "bid": "170", 
+        "btitle": "DigitalLife", 
+        "desc": "数码生活"
+    }, 
+    {
+        "bid": "171", 
+        "btitle": "Graphics", 
+        "desc": "图形图像"
+    }, 
+    {
+        "bid": "172", 
+        "btitle": "Billiards", 
+        "desc": "桌球 "
+    }, 
+    {
+        "bid": "173", 
+        "btitle": "Buddhism", 
+        "desc": "佛学研究"
+    }, 
+    {
+        "bid": "174", 
+        "btitle": "Board_Game", 
+        "desc": "桌上游戏"
+    }, 
+    {
+        "bid": "175", 
+        "btitle": "TaiWan", 
+        "desc": "海峡两岸"
+    }, 
+    {
+        "bid": "176", 
+        "btitle": "Outdoors", 
+        "desc": "户外运动"
+    }, 
+    {
+        "bid": "177", 
+        "btitle": "Chemistry", 
+        "desc": "化学"
+    }, 
+    {
+        "bid": "179", 
+        "btitle": "Geography", 
+        "desc": "地理知识"
+    }, 
+    {
+        "bid": "180", 
+        "btitle": "Flower", 
+        "desc": "花木园艺"
+    }, 
+    {
+        "bid": "181", 
+        "btitle": "Graduate_SA", 
+        "desc": "研究生奖助"
+    }, 
+    {
+        "bid": "182", 
+        "btitle": "TV", 
+        "desc": "电视"
+    }, 
+    {
+        "bid": "183", 
+        "btitle": "Debate", 
+        "desc": "辩论与演讲艺术"
+    }, 
+    {
+        "bid": "184", 
+        "btitle": "Net_Resource", 
+        "desc": "网络资源"
+    }, 
+    {
+        "bid": "185", 
+        "btitle": "Psy_Hotline", 
+        "desc": "心理热线"
+    }, 
+    {
+        "bid": "186", 
+        "btitle": "Tennis", 
+        "desc": "网球"
+    }, 
+    {
+        "bid": "187", 
+        "btitle": "Badminton", 
+        "desc": "羽毛球"
+    }, 
+    {
+        "bid": "188", 
+        "btitle": "Fashion", 
+        "desc": "流行时尚"
+    }, 
+    {
+        "bid": "189", 
+        "btitle": "PC_Market", 
+        "desc": "电脑商情"
+    }, 
+    {
+        "bid": "190", 
+        "btitle": "Num_Analysis", 
+        "desc": "数值计算"
+    }, 
+    {
+        "bid": "191", 
+        "btitle": "BBS_Dev", 
+        "desc": "BBS建设/Bug报告"
+    }, 
+    {
+        "bid": "193", 
+        "btitle": "Astrology", 
+        "desc": "星座传奇"
+    }, 
+    {
+        "bid": "194", 
+        "btitle": "BBS_Help", 
+        "desc": "新手帮助"
+    }, 
+    {
+        "bid": "195", 
+        "btitle": "Finance", 
+        "desc": "金融学"
+    }, 
+    {
+        "bid": "196", 
+        "btitle": "FDU_News", 
+        "desc": "校园新闻/中央海报栏"
+    }, 
+    {
+        "bid": "197", 
+        "btitle": "Renju", 
+        "desc": "五子棋"
+    }, 
+    {
+        "bid": "198", 
+        "btitle": "Swimming", 
+        "desc": "水上运动"
+    }, 
+    {
+        "bid": "199", 
+        "btitle": "OA", 
+        "desc": "办公自动化"
+    }, 
+    {
+        "bid": "200", 
+        "btitle": "M_GuangHua", 
+        "desc": "复旦大学光华公司"
+    }, 
+    {
+        "bid": "201", 
+        "btitle": "Flash", 
+        "desc": "闪客之家"
+    }, 
+    {
+        "bid": "204", 
+        "btitle": "Algorithm", 
+        "desc": "算法与数据结构"
+    }, 
+    {
+        "bid": "205", 
+        "btitle": "FDU_Software", 
+        "desc": "软件学院"
+    }, 
+    {
+        "bid": "208", 
+        "btitle": "Traffic_Info", 
+        "desc": "交通信息"
+    }, 
+    {
+        "bid": "209", 
+        "btitle": "FDU_Development", 
+        "desc": "旦复旦兮·复旦发展"
+    }, 
+    {
+        "bid": "210", 
+        "btitle": "Animal", 
+        "desc": "动物乐园"
+    }, 
+    {
+        "bid": "211", 
+        "btitle": "M_North_PM", 
+        "desc": "北区学生公寓"
+    }, 
+    {
+        "bid": "212", 
+        "btitle": "M_Ours_PM", 
+        "desc": "东区/南区学生生活园区"
+    }, 
+    {
+        "bid": "213", 
+        "btitle": "House", 
+        "desc": "房产信息"
+    }, 
+    {
+        "bid": "214", 
+        "btitle": "Entertainment", 
+        "desc": "娱乐动态"
+    }, 
+    {
+        "bid": "215", 
+        "btitle": "FenglinSecondhand", 
+        "desc": "枫林二手市场"
+    }, 
+    {
+        "bid": "216", 
+        "btitle": "HiFi", 
+        "desc": "天籁之音"
+    }, 
+    {
+        "bid": "217", 
+        "btitle": "Auto", 
+        "desc": "汽车"
+    }, 
+    {
+        "bid": "218", 
+        "btitle": "French", 
+        "desc": "法语教室"
+    }, 
+    {
+        "bid": "219", 
+        "btitle": "Japanese", 
+        "desc": "日语教室"
+    }, 
+    {
+        "bid": "220", 
+        "btitle": "Lessons", 
+        "desc": "课务"
+    }, 
+    {
+        "bid": "221", 
+        "btitle": "German", 
+        "desc": "德语教室"
+    }, 
+    {
+        "bid": "222", 
+        "btitle": "ID_Story", 
+        "desc": "ID的故事"
+    }, 
+    {
+        "bid": "223", 
+        "btitle": "Sports_Game", 
+        "desc": "体育游戏"
+    }, 
+    {
+        "bid": "224", 
+        "btitle": "FDU_IMP", 
+        "desc": "现代物理研究所"
+    }, 
+    {
+        "bid": "225", 
+        "btitle": "Baseball", 
+        "desc": "棒垒球"
+    }, 
+    {
+        "bid": "226", 
+        "btitle": "Art_Study", 
+        "desc": "艺术研究与欣赏"
+    }, 
+    {
+        "bid": "227", 
+        "btitle": "FDU_SU_Club", 
+        "desc": "学生会与校园社团"
+    }, 
+    {
+        "bid": "228", 
+        "btitle": "Weiqi", 
+        "desc": "围棋"
+    }, 
+    {
+        "bid": "229", 
+        "btitle": "M_Library", 
+        "desc": "复旦大学图书馆"
+    }, 
+    {
+        "bid": "231", 
+        "btitle": "JazzBlues", 
+        "desc": "爵士蓝调"
+    }, 
+    {
+        "bid": "232", 
+        "btitle": "FDU_PublicHealth", 
+        "desc": "公共卫生学院"
+    }, 
+    {
+        "bid": "233", 
+        "btitle": "Beauty", 
+        "desc": "美容"
+    }, 
+    {
+        "bid": "234", 
+        "btitle": "FM_Book_Acoustic", 
+        "desc": "图书音像"
+    }, 
+    {
+        "bid": "235", 
+        "btitle": "IQ", 
+        "desc": "智力乐园"
+    }, 
+    {
+        "bid": "237", 
+        "btitle": "Calligraphy", 
+        "desc": "书法天地"
+    }, 
+    {
+        "bid": "238", 
+        "btitle": "Service", 
+        "desc": "美工宣传服务中心"
+    }, 
+    {
+        "bid": "240", 
+        "btitle": "DotNet", 
+        "desc": "DotNet技术"
+    }, 
+    {
+        "bid": "241", 
+        "btitle": "Zone3_old", 
+        "desc": "原电脑技术区版面建设"
+    }, 
+    {
+        "bid": "242", 
+        "btitle": "Zone2", 
+        "desc": "院系风采区版面建设"
+    }, 
+    {
+        "bid": "243", 
+        "btitle": "Zone9", 
+        "desc": "学科学术区版面建设"
+    }, 
+    {
+        "bid": "244", 
+        "btitle": "Zone1", 
+        "desc": "复旦大学区版面建设"
+    }, 
+    {
+        "bid": "245", 
+        "btitle": "Zone4", 
+        "desc": "休闲娱乐区版面建设"
+    }, 
+    {
+        "bid": "246", 
+        "btitle": "Zone5", 
+        "desc": "文学艺术区版面建设"
+    }, 
+    {
+        "bid": "247", 
+        "btitle": "Zone6", 
+        "desc": "体育健身区版面建设"
+    }, 
+    {
+        "bid": "248", 
+        "btitle": "Zone7", 
+        "desc": "感性空间区版面建设"
+    }, 
+    {
+        "bid": "249", 
+        "btitle": "Zone8", 
+        "desc": "新闻信息区版面建设"
+    }, 
+    {
+        "bid": "250", 
+        "btitle": "FDU_Pharmacy", 
+        "desc": "药学院"
+    }, 
+    {
+        "bid": "251", 
+        "btitle": "Speed", 
+        "desc": "极速世界"
+    }, 
+    {
+        "bid": "253", 
+        "btitle": "Lost_Found", 
+        "desc": "失物招领"
+    }, 
+    {
+        "bid": "254", 
+        "btitle": "Sports_Lottery", 
+        "desc": "体育彩票"
+    }, 
+    {
+        "bid": "255", 
+        "btitle": "Cycling", 
+        "desc": "自行车"
+    }, 
+    {
+        "bid": "256", 
+        "btitle": "Guoxue", 
+        "desc": "国学"
+    }, 
+    {
+        "bid": "257", 
+        "btitle": "Insurance_Act", 
+        "desc": "保险与精算"
+    }, 
+    {
+        "bid": "258", 
+        "btitle": "Arch_Compiler", 
+        "desc": "体系结构与编译技术"
+    }, 
+    {
+        "bid": "259", 
+        "btitle": "City_Cafe", 
+        "desc": "城市咖啡厅"
+    }, 
+    {
+        "bid": "260", 
+        "btitle": "JunQi", 
+        "desc": "四国军棋"
+    }, 
+    {
+        "bid": "262", 
+        "btitle": "TeX", 
+        "desc": "TeX与学术出版"
+    }, 
+    {
+        "bid": "263", 
+        "btitle": "ClassicLiterature", 
+        "desc": "中国古典名著"
+    }, 
+    {
+        "bid": "264", 
+        "btitle": "Pie_Friend", 
+        "desc": "光华征友"
+    }, 
+    {
+        "bid": "265", 
+        "btitle": "Wanted", 
+        "desc": "招募专版"
+    }, 
+    {
+        "bid": "266", 
+        "btitle": "Tobacco_Alcohol", 
+        "desc": "烟酒文化"
+    }, 
+    {
+        "bid": "267", 
+        "btitle": "BBS_RevLog", 
+        "desc": "BBS源码修改日志"
+    }, 
+    {
+        "bid": "268", 
+        "btitle": "Politics", 
+        "desc": "政治学"
+    }, 
+    {
+        "bid": "269", 
+        "btitle": "FM_Commodity", 
+        "desc": "家居生活"
+    }, 
+    {
+        "bid": "270", 
+        "btitle": "FDU_D.S.S.", 
+        "desc": "社会科学基础部"
+    }, 
+    {
+        "bid": "271", 
+        "btitle": "Celebration", 
+        "desc": "日月光华十八周年站庆"
+    }, 
+    {
+        "bid": "273", 
+        "btitle": "Toy", 
+        "desc": "玩具"
+    }, 
+    {
+        "bid": "274", 
+        "btitle": "Money", 
+        "desc": "个人理财"
+    }, 
+    {
+        "bid": "275", 
+        "btitle": "Advice", 
+        "desc": "光华建设与发展"
+    }, 
+    {
+        "bid": "276", 
+        "btitle": "ZoneB", 
+        "desc": "交易专区版面建设"
+    }, 
+    {
+        "bid": "277", 
+        "btitle": "FM_Ecommodity", 
+        "desc": "电子商品"
+    }, 
+    {
+        "bid": "279", 
+        "btitle": "Pujiang", 
+        "desc": "浦江之声"
+    }, 
+    {
+        "bid": "281", 
+        "btitle": "Help_Counsellor", 
+        "desc": "卿云吧"
+    }, 
+    {
+        "bid": "282", 
+        "btitle": "FDU_TCFTCL", 
+        "desc": "中国古代文学研究中心"
+    }, 
+    {
+        "bid": "283", 
+        "btitle": "NeiMeng", 
+        "desc": "天堂草原"
+    }, 
+    {
+        "bid": "285", 
+        "btitle": "Appeal", 
+        "desc": "复议与投诉"
+    }, 
+    {
+        "bid": "286", 
+        "btitle": "FM_PC", 
+        "desc": "PC跳蚤市场"
+    }, 
+    {
+        "bid": "287", 
+        "btitle": "MerchantAgent", 
+        "desc": "校园代理"
+    }, 
+    {
+        "bid": "288", 
+        "btitle": "FM_Ticket", 
+        "desc": "票务信息"
+    }, 
+    {
+        "bid": "289", 
+        "btitle": "FM_Beauty_Dress", 
+        "desc": "美容服饰"
+    }, 
+    {
+        "bid": "290", 
+        "btitle": "FM_Others", 
+        "desc": "其他商品"
+    }, 
+    {
+        "bid": "291", 
+        "btitle": "OMTV", 
+        "desc": "欧美电视"
+    }, 
+    {
+        "bid": "292", 
+        "btitle": "MathTools", 
+        "desc": "数学软件"
+    }, 
+    {
+        "bid": "293", 
+        "btitle": "ME", 
+        "desc": "力学与工程科学"
+    }, 
+    {
+        "bid": "294", 
+        "btitle": "Wind_Instrument", 
+        "desc": "管乐器"
+    }, 
+    {
+        "bid": "295", 
+        "btitle": "Visa", 
+        "desc": "签证信息"
+    }, 
+    {
+        "bid": "298", 
+        "btitle": "FDU_Brain", 
+        "desc": "脑科学研究院"
+    }, 
+    {
+        "bid": "302", 
+        "btitle": "FDU_LAM", 
+        "desc": "先进材料实验室"
+    }, 
+    {
+        "bid": "303", 
+        "btitle": "FDU_Nursing", 
+        "desc": "护理学院"
+    }, 
+    {
+        "bid": "305", 
+        "btitle": "GoneWithTheWind", 
+        "desc": "随风飘逝"
+    }, 
+    {
+        "bid": "306", 
+        "btitle": "Complaint", 
+        "desc": "举报版"
+    }, 
+    {
+        "bid": "307", 
+        "btitle": "Piano", 
+        "desc": "钢琴"
+    }, 
+    {
+        "bid": "309", 
+        "btitle": "C_Game", 
+        "desc": "站庆线上游戏"
+    }, 
+    {
+        "bid": "310", 
+        "btitle": "Doctor", 
+        "desc": "博士生生活"
+    }, 
+    {
+        "bid": "317", 
+        "btitle": "M_Zhangjiang", 
+        "desc": "张江校区"
+    }, 
+    {
+        "bid": "318", 
+        "btitle": "LifeInNorth", 
+        "desc": "北漂一族"
+    }, 
+    {
+        "bid": "321", 
+        "btitle": "TVEntZ", 
+        "desc": "综艺节目"
+    }, 
+    {
+        "bid": "330", 
+        "btitle": "FDUROP", 
+        "desc": "本科生学术研究资助计划"
+    }, 
+    {
+        "bid": "341", 
+        "btitle": "E.E._01EE", 
+        "desc": "01EE·神采奕奕"
+    }, 
+    {
+        "bid": "343", 
+        "btitle": "FreeSoftware", 
+        "desc": "自由软件"
+    }, 
+    {
+        "bid": "356", 
+        "btitle": "FDU_M.E.", 
+        "desc": "微电子学系"
+    }, 
+    {
+        "bid": "358", 
+        "btitle": "FDU_A.D.", 
+        "desc": "艺术设计系"
+    }, 
+    {
+        "bid": "359", 
+        "btitle": "Mechanics_MEG", 
+        "desc": "力学系研究生"
+    }, 
+    {
+        "bid": "361", 
+        "btitle": "RTS_Game", 
+        "desc": "即时战略游戏"
+    }, 
+    {
+        "bid": "362", 
+        "btitle": "FPS_Game", 
+        "desc": "射击游戏"
+    }, 
+    {
+        "bid": "368", 
+        "btitle": "Kids", 
+        "desc": "育儿"
+    }, 
+    {
+        "bid": "372", 
+        "btitle": "FDU_MEng", 
+        "desc": "工程硕士"
+    }, 
+    {
+        "bid": "373", 
+        "btitle": "PopularSci", 
+        "desc": "科学人"
+    }, 
+    {
+        "bid": "374", 
+        "btitle": "HaiNan", 
+        "desc": "天涯海角"
+    }, 
+    {
+        "bid": "375", 
+        "btitle": "Chemistry_02", 
+        "desc": "02化学"
+    }, 
+    {
+        "bid": "376", 
+        "btitle": "Chemistry_04", 
+        "desc": "04化学"
+    }, 
+    {
+        "bid": "377", 
+        "btitle": "Running", 
+        "desc": "跑道人生"
+    }, 
+    {
+        "bid": "378", 
+        "btitle": "Chinese_04", 
+        "desc": "04中文·文采飞扬"
+    }, 
+    {
+        "bid": "381", 
+        "btitle": "Physics_05", 
+        "desc": "05物理"
+    }, 
+    {
+        "bid": "382", 
+        "btitle": "Chemistry_01", 
+        "desc": "01化学·聆忆而爱"
+    }, 
+    {
+        "bid": "383", 
+        "btitle": "E.E._05EE", 
+        "desc": "05电子工程"
+    }, 
+    {
+        "bid": "385", 
+        "btitle": "HomeDeco", 
+        "desc": "家居装潢"
+    }, 
+    {
+        "bid": "386", 
+        "btitle": "Physics_02", 
+        "desc": "02物理·我爱依旧"
+    }, 
+    {
+        "bid": "387", 
+        "btitle": "Physics_03", 
+        "desc": "03物理·爱你到底"
+    }, 
+    {
+        "bid": "388", 
+        "btitle": "S.I.R.P.A._03", 
+        "desc": "0317·纵横天下"
+    }, 
+    {
+        "bid": "389", 
+        "btitle": "S.I.R.P.A._04", 
+        "desc": "0417·习惯有你"
+    }, 
+    {
+        "bid": "390", 
+        "btitle": "Software_02", 
+        "desc": "02SS·聆尔留忆"
+    }, 
+    {
+        "bid": "393", 
+        "btitle": "CS_Graduate", 
+        "desc": "计算机研究生"
+    }, 
+    {
+        "bid": "394", 
+        "btitle": "Software_00", 
+        "desc": "00SS·丝丝情缘"
+    }, 
+    {
+        "bid": "397", 
+        "btitle": "O.S.E._04", 
+        "desc": "04光科"
+    }, 
+    {
+        "bid": "399", 
+        "btitle": "Mechanics_03", 
+        "desc": "03力学"
+    }, 
+    {
+        "bid": "400", 
+        "btitle": "E.E._02EE", 
+        "desc": "02大电工·我们在一起"
+    }, 
+    {
+        "bid": "401", 
+        "btitle": "Mac", 
+        "desc": "苹果电脑"
+    }, 
+    {
+        "bid": "402", 
+        "btitle": "Tuangou", 
+        "desc": "团购"
+    }, 
+    {
+        "bid": "403", 
+        "btitle": "Software_05", 
+        "desc": "05SS·领悟"
+    }, 
+    {
+        "bid": "88", 
+        "btitle": "FlightSimulate", 
+        "desc": "模拟飞行"
+    }, 
+    {
+        "bid": "406", 
+        "btitle": "Physics_04", 
+        "desc": "04物理·飞翔"
+    }, 
+    {
+        "bid": "408", 
+        "btitle": "Physics_01", 
+        "desc": "01物理·相伴永久"
+    }, 
+    {
+        "bid": "409", 
+        "btitle": "Beauty_shopping", 
+        "desc": "美容消费"
+    }, 
+    {
+        "bid": "410", 
+        "btitle": "Chemistry_03", 
+        "desc": "03化学"
+    }, 
+    {
+        "bid": "411", 
+        "btitle": "StoneStory", 
+        "desc": "红楼梦"
+    }, 
+    {
+        "bid": "412", 
+        "btitle": "Architecture", 
+        "desc": "建筑与城市规划"
+    }, 
+    {
+        "bid": "413", 
+        "btitle": "FDU_IHE", 
+        "desc": "高等教育研究所"
+    }, 
+    {
+        "bid": "414", 
+        "btitle": "IT", 
+        "desc": "IT江湖"
+    }, 
+    {
+        "bid": "415", 
+        "btitle": "Economics_SEG", 
+        "desc": "经济学院研究生"
+    }, 
+    {
+        "bid": "416", 
+        "btitle": "American_Football", 
+        "desc": "美式橄榄球"
+    }, 
+    {
+        "bid": "417", 
+        "btitle": "GalGame", 
+        "desc": "美少女游戏"
+    }, 
+    {
+        "bid": "418", 
+        "btitle": "M.E._04ME", 
+        "desc": "04微电子"
+    }, 
+    {
+        "bid": "419", 
+        "btitle": "MyShow", 
+        "desc": "王道"
+    }, 
+    {
+        "bid": "420", 
+        "btitle": "C.H.T._03", 
+        "desc": "03文博历史旅游管理"
+    }, 
+    {
+        "bid": "421", 
+        "btitle": "DV", 
+        "desc": "梦工厂"
+    }, 
+    {
+        "bid": "422", 
+        "btitle": "Moonlight", 
+        "desc": "月色"
+    }, 
+    {
+        "bid": "423", 
+        "btitle": "FDU_I.B.S.", 
+        "desc": "生物医学研究院"
+    }, 
+    {
+        "bid": "425", 
+        "btitle": "ShanDong", 
+        "desc": "齐鲁大地"
+    }, 
+    {
+        "bid": "426", 
+        "btitle": "JiangSu", 
+        "desc": "人杰江苏"
+    }, 
+    {
+        "bid": "427", 
+        "btitle": "FuJian", 
+        "desc": "八闽福地"
+    }, 
+    {
+        "bid": "428", 
+        "btitle": "WanNeng", 
+        "desc": "万能"
+    }, 
+    {
+        "bid": "429", 
+        "btitle": "ShaanXi", 
+        "desc": "三秦大地"
+    }, 
+    {
+        "bid": "430", 
+        "btitle": "HuNan", 
+        "desc": "三湘四水"
+    }, 
+    {
+        "bid": "432", 
+        "btitle": "ZheJiang", 
+        "desc": "诗画江南"
+    }, 
+    {
+        "bid": "433", 
+        "btitle": "HeNan", 
+        "desc": "中原风情"
+    }, 
+    {
+        "bid": "434", 
+        "btitle": "BeiJing", 
+        "desc": "皇城根儿"
+    }, 
+    {
+        "bid": "435", 
+        "btitle": "DongBei", 
+        "desc": "东北一家人"
+    }, 
+    {
+        "bid": "436", 
+        "btitle": "GanSu", 
+        "desc": "陇上人家"
+    }, 
+    {
+        "bid": "437", 
+        "btitle": "ShanXi", 
+        "desc": "三晋风采"
+    }, 
+    {
+        "bid": "438", 
+        "btitle": "YunNan", 
+        "desc": "彩云之南"
+    }, 
+    {
+        "bid": "439", 
+        "btitle": "BaShu", 
+        "desc": "巴山蜀水"
+    }, 
+    {
+        "bid": "440", 
+        "btitle": "AnHui", 
+        "desc": "徽风皖韵"
+    }, 
+    {
+        "bid": "441", 
+        "btitle": "GuangDong", 
+        "desc": "粤秀岭南"
+    }, 
+    {
+        "bid": "442", 
+        "btitle": "HuBei", 
+        "desc": "荆楚大地"
+    }, 
+    {
+        "bid": "443", 
+        "btitle": "Marriage", 
+        "desc": "围城内外"
+    }, 
+    {
+        "bid": "444", 
+        "btitle": "FDU_CHGS", 
+        "desc": "历史地理研究中心"
+    }, 
+    {
+        "bid": "445", 
+        "btitle": "GuangXi", 
+        "desc": "八桂飘香"
+    }, 
+    {
+        "bid": "446", 
+        "btitle": "JiangXi", 
+        "desc": "江南西道"
+    }, 
+    {
+        "bid": "453", 
+        "btitle": "HeBei", 
+        "desc": "燕赵大地"
+    }, 
+    {
+        "bid": "457", 
+        "btitle": "GuangHuaBei", 
+        "desc": "光华杯"
+    }, 
+    {
+        "bid": "458", 
+        "btitle": "Railway", 
+        "desc": "铁路"
+    }, 
+    {
+        "bid": "459", 
+        "btitle": "M.E._05ME", 
+        "desc": "05微电子"
+    }, 
+    {
+        "bid": "460", 
+        "btitle": "Chemistry_05", 
+        "desc": "05化学"
+    }, 
+    {
+        "bid": "472", 
+        "btitle": "Real_Estate", 
+        "desc": "房地产业"
+    }, 
+    {
+        "bid": "476", 
+        "btitle": "XinJiang", 
+        "desc": "明月出天山"
+    }, 
+    {
+        "bid": "481", 
+        "btitle": "Software_06", 
+        "desc": "06SS"
+    }, 
+    {
+        "bid": "489", 
+        "btitle": "GuiZhou", 
+        "desc": "黔山秀水"
+    }, 
+    {
+        "bid": "492", 
+        "btitle": "Scripts", 
+        "desc": "脚本语言"
+    }, 
+    {
+        "bid": "498", 
+        "btitle": "NingXia", 
+        "desc": "塞上江南"
+    }, 
+    {
+        "bid": "499", 
+        "btitle": "Theatre", 
+        "desc": "剧场艺术"
+    }, 
+    {
+        "bid": "500", 
+        "btitle": "FDU_ICES", 
+        "desc": "国际文化交流学院"
+    }, 
+    {
+        "bid": "501", 
+        "btitle": "AgentFeedback", 
+        "desc": "代理投诉和反馈"
+    }, 
+    {
+        "bid": "504", 
+        "btitle": "ZJSecondhand", 
+        "desc": "张江二手市场"
+    }, 
+    {
+        "bid": "505", 
+        "btitle": "Weather", 
+        "desc": "天气与气候"
+    }, 
+    {
+        "bid": "506", 
+        "btitle": "Android", 
+        "desc": "安卓操作系统"
+    }, 
+    {
+        "bid": "507", 
+        "btitle": "PhotoGear", 
+        "desc": "摄影器材"
+    }, 
+    {
+        "bid": "515", 
+        "btitle": "BBSServ", 
+        "desc": "服务组工作"
+    }, 
+    {
+        "bid": "519", 
+        "btitle": "GuanghuaInfo", 
+        "desc": "光华活动信息"
+    }, 
+    {
+        "bid": "521", 
+        "btitle": "ChineseMedicine", 
+        "desc": "中医"
+    }, 
+    {
+        "bid": "522", 
+        "btitle": "Freshman", 
+        "desc": "新生之家"
+    }, 
+    {
+        "bid": "523", 
+        "btitle": "Losers", 
+        "desc": "卢瑟"
+    }, 
+    {
+        "bid": "528", 
+        "btitle": "BBS_Bank", 
+        "desc": "光华银行"
+    }, 
+    {
+        "bid": "534", 
+        "btitle": "FDU_Women", 
+        "desc": "复旦女性家园"
+    }, 
+    {
+        "bid": "535", 
+        "btitle": "FDU_Statutes", 
+        "desc": "复旦大学章程"
+    }, 
+    {
+        "bid": "541", 
+        "btitle": "ZoneC", 
+        "desc": "个性风采区版面建设"
+    }, 
+    {
+        "bid": "542", 
+        "btitle": "Zone3", 
+        "desc": "五湖四海区版面建设"
+    }, 
+    {
+        "bid": "547", 
+        "btitle": "~quanshui", 
+        "desc": "一溪清泉"
+    }, 
+    {
+        "bid": "555", 
+        "btitle": "~LiuQinqing", 
+        "desc": "trytrysee"
+    }, 
+    {
+        "bid": "566", 
+        "btitle": "~huhuliuying", 
+        "desc": "七星夜巷"
+    }, 
+    {
+        "bid": "570", 
+        "btitle": "~harrydou", 
+        "desc": "豆"
+    }
+]
