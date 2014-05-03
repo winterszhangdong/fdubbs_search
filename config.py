@@ -4,6 +4,6 @@
 host = "localhost"
 user = "root"
 passwd = "929263"
-db = {"test": "test", "epg": "epg", "bbs": "bbs"}
+db_name = "bbs"
 port = 3306
 charset = "utf8"
